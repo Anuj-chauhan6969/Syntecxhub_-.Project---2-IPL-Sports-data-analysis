@@ -1,0 +1,981 @@
+match_id,inning,batting_team,bowling_team,batter,batsman_runs
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,0
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,3
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Rohit Sharma,6
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,0
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,5
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6
+1,1,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,6
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,0
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,1
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,6
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,6
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,6
+1,1,Mumbai Indians,Chennai Super Kings,Ishan Kishan,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,0
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,4
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,0
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,1
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+1,2,Chennai Super Kings,Mumbai Indians,Faf du Plessis,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,5
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,0
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,2
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,1,Royal Challengers Bangalore,Kolkata Knight Riders,AB de Villiers,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,2
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,0
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,4
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+2,2,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,0
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,3
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Shikhar Dhawan,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,0
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,3
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,1,Delhi Capitals,Punjab Kings,Rishabh Pant,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,0
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,5
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,KL Rahul,6
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,0
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,5
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,6
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,6
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,6
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,6
+3,2,Punjab Kings,Delhi Capitals,Mayank Agarwal,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,0
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,1
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,1,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,4
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,David Warner,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,0
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,5
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,6
+4,2,Sunrisers Hyderabad,Rajasthan Royals,Kane Williamson,6
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,0
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,6
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,6
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,6
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,6
+5,1,Mumbai Indians,Delhi Capitals,Rohit Sharma,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,0
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,4
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,1,Mumbai Indians,Delhi Capitals,Ishan Kishan,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,0
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,3
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Rishabh Pant,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,0
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,2
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+5,2,Delhi Capitals,Mumbai Indians,Shikhar Dhawan,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,2
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,0
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,6
+6,1,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,4
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,0
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+6,2,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,3
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,5
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,6
+7,1,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,0
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,1
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+7,2,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,0
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,0
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,0
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,0
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,0
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,1
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,KL Rahul,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,0
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,3
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,1,Punjab Kings,Sunrisers Hyderabad,Mayank Agarwal,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,0
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,5
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,David Warner,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,0
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,3
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+8,2,Sunrisers Hyderabad,Punjab Kings,Kane Williamson,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,1
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,0
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,5
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,1,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,3
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,3
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+9,2,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,0
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,0
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,0
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,0
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,5
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,0
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,3
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,1,Chennai Super Kings,Gujarat Titans,Devon Conway,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,0
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,0
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,0
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,0
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,0
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,1
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Shubman Gill,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,0
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,4
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+10,2,Gujarat Titans,Chennai Super Kings,Hardik Pandya,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,0
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,3
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Jos Buttler,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,0
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,4
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,1,Rajasthan Royals,Delhi Capitals,Sanju Samson,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,0
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,2
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,David Warner,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,0
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+11,2,Delhi Capitals,Rajasthan Royals,Rishabh Pant,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,4
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shubman Gill,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,0
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,2
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,1,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,0
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,3
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,KL Rahul,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,0
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,4
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6
+12,2,Punjab Kings,Kolkata Knight Riders,Mayank Agarwal,6

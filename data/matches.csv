@@ -1,0 +1,13 @@
+id,season,team1,team2,winner,venue
+1,2021,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Mumbai
+2,2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Chennai
+3,2021,Delhi Capitals,Punjab Kings,Delhi Capitals,Mumbai
+4,2021,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Delhi
+5,2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,Mumbai
+6,2022,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Chennai
+7,2022,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Kolkata
+8,2022,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Mumbai
+9,2023,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Mumbai
+10,2023,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Chennai
+11,2023,Rajasthan Royals,Delhi Capitals,Delhi Capitals,Jaipur
+12,2023,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,Kolkata
